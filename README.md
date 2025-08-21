@@ -1,4 +1,4 @@
-# 👋 Bonjour, I'm Mohamed Mokhtari  
+# 👋 Bonjour, I'm Mohamed
 
 I’m a **CTO on Demand** and **Front-end & Design System expert** with more than 10 years of experience across France, New Zealand, and Australia.  
 From startups to large enterprises, I’ve helped build **scalable SaaS products** and **world-class user experiences**, always bridging **technology and business**.  
